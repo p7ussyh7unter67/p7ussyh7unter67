@@ -5,5 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=p7ussyh7unter67&style=for-the-badge&color=000000&label=КТО_ТУТ_ГУНИТ" alt="Visitor Count" />
 </p>
 
-
+<p align="center">
+<img width="150" height="20" alt="biohazard" src="https://github.com/user-attachments/assets/7a7f0ccd-66a4-4f12-abf5-846019dea9b4" />
 
