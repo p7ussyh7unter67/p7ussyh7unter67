@@ -5,7 +5,8 @@
 <img width="100" height="32" alt="fe4f065f" src="https://github.com/user-attachments/assets/10ea22b3-d01c-4dd4-97a3-6b4f6eef8ac4" />
 
 <p align="center">
-  <img width="30" height="12" alt="74b5af76" src="https://github.com/user-attachments/assets/b4de3b5d-cf0a-4c99-9085-6bb59378da26" />
+<img width="80" height="20" alt="758922d8" src="https://github.com/user-attachments/assets/620ac413-ca3f-4b64-9800-d062803cc3b9" />
+
   <img src="https://komarev.com/ghpvc/?username=p7ussyh7unter67&style=for-the-badge&color=000000&label=КТО_ТУТ_ГУНИТ" alt="Visitor Count" />
 </p>
 
