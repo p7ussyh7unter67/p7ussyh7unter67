@@ -10,4 +10,4 @@
 
 
 <p align="center">
-<img width="640" height="480" alt="RMA3HOIXI7MLGNC4RAWZKXM6DJJMR4YX" src="https://github.com/user-attachments/assets/85cad343-f640-4318-b62e-62b978084042" />
+<img width="800" height="600" alt="XW357U64JX42H2YIIMRDNJ2E7GMAEQ5S" src="https://github.com/user-attachments/assets/3ece2f26-2386-4708-a0a1-7af9cedfa398" />
