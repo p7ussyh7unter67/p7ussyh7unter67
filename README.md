@@ -17,11 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=p7ussyh7unter67&style=for-the-badge&color=000000&label=КТО_ТУТ_ГУНИТ" alt="Visitor Count" />
 </p>
 
-<p align="center">
-  <img width="314" height="68" alt="LYTEB76KE3HPTKFIX6PAI24WMGWQ7MQO" src="https://github.com/user-attachments/assets/8312f3ca-6994-491f-8931-23be9dc6e680" />
 
 
 
 
-<p align="center">
-<img width="800" height="600" alt="XW357U64JX42H2YIIMRDNJ2E7GMAEQ5S" src="https://github.com/user-attachments/assets/3ece2f26-2386-4708-a0a1-7af9cedfa398" />
