@@ -19,8 +19,5 @@
 
 
 <p align="center">
-<img width="616" height="768" alt="95b2ab165c1e9ffcb7d33fd7548d270f" src="https://github.com/user-attachments/assets/8567af8d-d4bf-4dac-95d3-7e9e7a24d20c" />
-
-
-
+<img width="261" height="324" alt="Без названия18_20260725184454" src="https://github.com/user-attachments/assets/7becff52-c369-4173-aca7-fba5b604f2c1" />
 
