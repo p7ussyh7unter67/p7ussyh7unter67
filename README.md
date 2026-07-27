@@ -22,7 +22,7 @@
 <img width="541" height="16" alt="b63dcb7f" src="https://github.com/user-attachments/assets/672a69ce-dc00-4813-bbe8-65a67d8f1a45" />
 
 
-
+ЭТО МОЙ МАТЬ ТВОЮ ГОЛОС ХИХИК АХА Ё Я СДЕЛАЛ ДАТТЕБАЁ Я КАК НАРУТО СХАВАЮ ЭТОТ РАМЕН
 <p align="center">
 <img width="261" height="324" alt="Без названия18_20260725184454" src="https://github.com/user-attachments/assets/7becff52-c369-4173-aca7-fba5b604f2c1" />
 
